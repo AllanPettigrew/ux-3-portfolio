@@ -42,15 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "E4B5AF85-2FA6-4AFC-AEDF-909D556C6B5B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6BEA1C3F-CCFA-4B0E-AD91-60A3665C3352"
+      "class": "bitmap",
+      "id": "57B5DE2B-C63D-455D-8F57-B3DE1FC84863"
     }
   ],
   "name": "Mood Board",
