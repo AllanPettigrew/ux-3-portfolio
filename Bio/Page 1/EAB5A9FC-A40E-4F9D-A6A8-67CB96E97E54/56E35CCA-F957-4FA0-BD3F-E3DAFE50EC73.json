@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "57B5DE2B-C63D-455D-8F57-B3DE1FC84863",
+  "do_objectID": "56E35CCA-F957-4FA0-BD3F-E3DAFE50EC73",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,14 +16,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 238,
-    "width": 337,
-    "x": 275,
-    "y": 0
+    "height": 460,
+    "width": 460,
+    "x": -58,
+    "y": 512
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/5d291abc4f4a93515169ceb353336457b401aabc.png",
+    "_ref": "images/eb3f0cad211ca20de1e74444a028238d17c816a3.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 144,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "inna-hansen-pinaple-spaceship",
+  "name": "90517832-hud-ui-for-business-app-futuristic-user-interface-and-infographic-elements-sci-fi-modern-futuristic-",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

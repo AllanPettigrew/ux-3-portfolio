@@ -2,7 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "57B5DE2B-C63D-455D-8F57-B3DE1FC84863",
+  "do_objectID": "C03BA314-7483-4DD1-9CC6-A243DF650FD1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,24 +16,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 238,
-    "width": 337,
-    "x": 275,
-    "y": 0
+    "height": 232,
+    "width": 217,
+    "x": 395,
+    "y": 396
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/5d291abc4f4a93515169ceb353336457b401aabc.png",
+    "_ref": "images/6fcae377f9eb1414e7afff59ead249447b22fee8.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "inna-hansen-pinaple-spaceship",
+  "name": "download (2)",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
